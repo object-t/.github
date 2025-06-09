@@ -14,9 +14,13 @@ Object\<T>は福岡デザイン&テクノロジー専門学校の学生団体で
 <a href="https://github.com/kenta-afk" rel="noopener noreferrer" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/148222450?s=120&v=4">
 </a>
+<a href="https://github.com/orgs/object-t/people/kurazuuuuuu" rel="noopener noreferrer" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/110393398?s=120&v=4">
+</a>
 <a href="https://github.com/AnnkoATAMA" rel="noopener noreferrer" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/152017354?s=120&v=4">
 </a>
+
 
 ## 活動履歴 📝
 ### 団体結成(2024/11/20)
