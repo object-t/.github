@@ -6,19 +6,31 @@ Object\<T>は福岡デザイン&テクノロジー専門学校の学生団体で
 
 ## メンバー 🐙
 <a href="https://github.com/naoido" rel="noopener noreferrer" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/54303857?s=120&v=4">
+  <img width=100 src="https://avatars.githubusercontent.com/u/54303857?s=120&v=4">
 </a>
 <a href="https://github.com/thirdlf03" rel="noopener noreferrer" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/114989748?s=120&v=4">
+  <img width=100 src="https://avatars.githubusercontent.com/u/114989748?s=120&v=4">
 </a>
 <a href="https://github.com/kenta-afk" rel="noopener noreferrer" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/148222450?s=120&v=4">
+  <img width=100 src="https://avatars.githubusercontent.com/u/148222450?s=120&v=4">
 </a>
-<a href="https://github.com/orgs/object-t/people/kurazuuuuuu" rel="noopener noreferrer" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/110393398?s=120&v=4">
+<a href="https://github.com/kyiku" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://avatars.githubusercontent.com/u/189719817?s=120&v=4">
+</a>
+<a href="https://github.com/kurazuuuuuu" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://avatars.githubusercontent.com/u/110393398?s=120&v=4">
+</a>
+<a href="https://github.com/tokageee" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://avatars.githubusercontent.com/u/215610505?s=120&v=4">
+</a>
+<a href="https://github.com/mizuki-24" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://avatars.githubusercontent.com/u/207144651?s=120&v=4">
+</a>
+<a href="https://github.com/ryosaburo" rel="noopener noreferrer" target="_blank">
+  <img width=100 src="https://avatars.githubusercontent.com/u/215641422?s=120&v=4">
 </a>
 <a href="https://github.com/AnnkoATAMA" rel="noopener noreferrer" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/152017354?s=120&v=4">
+  <img width=100 src="https://avatars.githubusercontent.com/u/152017354?s=120&v=4">
 </a>
 
 
